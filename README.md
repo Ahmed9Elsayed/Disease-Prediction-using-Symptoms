@@ -17,7 +17,7 @@ This project aims to predict diseases based on the symptoms provided by users. T
 - [Results](#results)
 - [Conclusion](#Conclusion)
 - [Future Work](#future-work)
-- [Contact Information](#Contact Information)
+- [Contact Information](#Contact-Information)
 
 
 ## Project Description
