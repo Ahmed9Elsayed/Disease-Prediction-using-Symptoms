@@ -86,12 +86,10 @@ You can install the dependencies using:
 4. **Model Training:**
 
     Several machine learning models are used in this project, including:
-
-	- **Logistic Regression**
+    	- **Logistic Regression**
 	- **Decision Tree Classifier**
 	- **Bernoulli's Naive Bayes**
-
-	The models are trained using the symptom features, and the disease prediction is based on the likelihood derived from the symptoms.
+ The models are trained using the symptom features, and the disease prediction is based on the likelihood derived from the symptoms.
 
   
 
