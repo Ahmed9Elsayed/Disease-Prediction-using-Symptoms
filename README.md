@@ -76,9 +76,10 @@ You can install the dependencies using:
 
     - Open the notebook in Kaggle or your local Jupyter environment.
 
-2. **Data Preprocessing:**
+2. **Data Preprocessing and EDA:**
 
     - The notebook includes code to preprocess all issues in the two datasets
+    - also some EDA code to understand the data further
 
 3. **Feature Engineering:**
     - used Mutual Information (MI) to capture any type of relationship between features and target
@@ -138,4 +139,4 @@ The notebook demonstrates that traditional machine learning models can effective
 
   
 
-If you have any questions or suggestions to improve, please contact me via Kaggle or at ahmedelsayedtaha467@gmail.com.
+If you have any questions or suggestions to improve, please contact me via Kaggle: https://www.kaggle.com/ahmed321abozeid or at ahmedelsayedtaha467@gmail.com.
